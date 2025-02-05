@@ -38,7 +38,7 @@ Honey Meal is a Hostel Management system for university students developed using
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/honeymeal-client.git
+   git clone https://github.com/iamSabib/Honey-Meal.git
    cd honeymeal-client
    ```
    
@@ -66,7 +66,7 @@ Honey Meal is a Hostel Management system for university students developed using
 
 5. Open the app in your browser:
    ```bash
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ## Technologies Used
@@ -79,9 +79,7 @@ Honey Meal is a Hostel Management system for university students developed using
 - **SweetAlert2** for notifications
 
 ## GitHub Repositories
-- **Client-Side Repository**: [GitHub Link](https://github.com/username/honeymeal-client)
+- **Client-Side Repository**: [GitHub Link](https://github.com/iamSabib/Honey-Meal)
 - **Server-Side Repository**: [GitHub Link](https://github.com/username/honeymeal-server)
 
 ---
-
-Feel free to add any specific details or modify the sections based on your actual project setup! Let me know if you need any further changes.
