@@ -1,7 +1,3 @@
-Here’s a sample README for the Honey Meal client-side project:
-
----
-
 # Honey Meal - Client Side
 
 Honey Meal is a Hostel Management system for university students developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). This client-side part of the project allows students to log in, view and review meals, while admins can manage meals, users, and meal reviews. It is designed to provide a seamless and interactive experience for users, with features like persistent login, meal management, and easy navigation.
